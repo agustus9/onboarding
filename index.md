@@ -15,7 +15,7 @@ There are quite a few tasks and topics that are necessary to take care of before
 
 ## Objectives
 
-The following are the learning objectives for this prework, all of which are important requirements expected of a professional developer. Though they are not technically "programming" skills, they are crucially important to success both during the class and on the job.
+The following are the learning objectives for this pre-work, all of which are important requirements expected of a professional developer. Though they are not technically "programming" skills, they are crucially important to success both during the class and on the job.
 
 1. Be able to communicate technical accomplishments and struggles in writing.
 2. Be able to learn in contexts that aren't necessarily suited to your primary learning style.
@@ -33,13 +33,13 @@ The following are the learning objectives for this prework, all of which are imp
 
 ## Computer Setup
 
-### OSX Yosemite
+### OSX El Capitan
 
-You'll need to install OS X Yosemite if your Mac didn't have it pre-installed or you haven't upgraded already.
+You'll need to install the latest OS X if your Mac didn't have it pre-installed or you haven't upgraded already.
 
-1.	Download the Yosemite upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-yosemite/id915041082?mt=12).
+1.	Download the El Capitan upgrade from the [Apple Store](https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117?mt=12).
 2.	You'll need to sign in to your Mac's 'App Store' with your [Apple ID](https://appleid.apple.com/).
-3.	Double-click "Install OS X Yosemite" to begin installation.  
+3.	Double-click "Install OS X El Capitan" to begin installation.  
 *WARNING*: The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
 
 If you're new to the Mac, check out [Mac Basics](https://www.apple.com/support/macbasics/).
@@ -63,7 +63,7 @@ Khan Academy: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/c
 
 ## The Command Line
 
-The command line is an interface to the internals of your computer, as opposed to the graphical user interface (GUI) that we commonly use. We will be using the command line _extensively_ in our class, but the point of this prework is not to be an expert, just to start to get comfortable.
+The command line is an interface to the internals of your computer, as opposed to the graphical user interface (GUI) that we commonly use. We will be using the command line _extensively_ in our class, but the point of this pre-work is not to be an expert, just to start to get comfortable.
 
 Especially if you've never used the command line before, you may want to go through these more than once. Make sure not just to read/watch, but really dive in and use the commands that you learn about.
 
