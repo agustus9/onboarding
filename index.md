@@ -33,13 +33,9 @@ The following are the learning objectives for this pre-work, all of which are im
 
 ## Computer Setup
 
-### OSX El Capitan
+### OS X Sierra
 
-You'll need to install the latest OS X if your Mac didn't have it pre-installed or you haven't upgraded already.
-
-1.	Download the El Capitan upgrade from the [Apple Store](https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117?mt=12).
-2.	You'll need to sign in to your Mac's 'App Store' with your [Apple ID](https://appleid.apple.com/).
-3.	Double-click "Install OS X El Capitan" to begin installation.  
+You'll need to install the latest OS X if your Mac didn't have it pre-installed or you haven't upgraded already. You'll need to sign in to your Mac's 'App Store' with your [Apple ID](https://appleid.apple.com/).
 *WARNING*: The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
 
 If you're new to the Mac, check out [Mac Basics](https://www.apple.com/support/macbasics/).
@@ -51,9 +47,12 @@ If you're new to the Mac, check out [Mac Basics](https://www.apple.com/support/m
 
 ## JavaScript
 
-Start learning JavaScript. Any progress you make on this front before class starts will only serve to benefit you as we get going.
+Start learning JavaScript. Any progress you make on this front before class starts will only serve to benefit you as we get going. Here are some resources:
 
-Khan Academy: [Intro to JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
+- The Iron Yard's [JavaScipt Mini Course](https://online.theironyard.com/paths/430/join)
+- [Free Code Camp](https://www.freecodecamp.com
+- Code School's [JavaScript Road Trip](javascript-roadtrip.codeschool.com/)
+- Khan Academy: [Intro to JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
 
 ### Supplemental
 
