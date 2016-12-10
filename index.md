@@ -50,7 +50,7 @@ If you're new to the Mac, check out [Mac Basics](https://www.apple.com/support/m
 Start learning JavaScript. Any progress you make on this front before class starts will only serve to benefit you as we get going. Here are some resources:
 
 - The Iron Yard's [JavaScipt Mini Course](https://online.theironyard.com/paths/430/join)
-- [Free Code Camp](https://www.freecodecamp.com
+- [Free Code Camp](https://www.freecodecamp.com)
 - Code School's [JavaScript Road Trip](javascript-roadtrip.codeschool.com/)
 - Khan Academy: [Intro to JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
 
